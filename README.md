@@ -13,7 +13,7 @@
          <li>...</li>
       </ul>
 
-<p> Alguns exemplos de visualizaçoes contidas no arquivo .ipynb:</p>
+<p> Alguns exemplos de visualizaçoes documentadas contidas no arquivo .ipynb:</p>
 
 ![Main](https://github.com/carlosal249/MatplotLib-Visualizations/blob/master/temperatura.png)
 *Destacando pontos expecificos do grafico*
